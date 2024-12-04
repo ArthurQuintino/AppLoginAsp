@@ -3,8 +3,76 @@
   "WorkspaceRootPath": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\AppLogin\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{14F81E0C-4416-4D51-9E1B-8E01552701F7}|AppLogin\\AppLogin.csproj|c:\\users\\sacol\\onedrive\\\u00E1rea de trabalho\\applogin\\applogin\\libraries\\filtro\\clienteautorizacaoatributte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14F81E0C-4416-4D51-9E1B-8E01552701F7}|AppLogin\\AppLogin.csproj|solutionrelative:applogin\\libraries\\filtro\\clienteautorizacaoatributte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14F81E0C-4416-4D51-9E1B-8E01552701F7}|AppLogin\\AppLogin.csproj|c:\\users\\sacol\\onedrive\\\u00E1rea de trabalho\\applogin\\applogin\\areas\\colaborador\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14F81E0C-4416-4D51-9E1B-8E01552701F7}|AppLogin\\AppLogin.csproj|solutionrelative:applogin\\areas\\colaborador\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{14F81E0C-4416-4D51-9E1B-8E01552701F7}|AppLogin\\AppLogin.csproj|c:\\users\\sacol\\onedrive\\\u00E1rea de trabalho\\applogin\\applogin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{14F81E0C-4416-4D51-9E1B-8E01552701F7}|AppLogin\\AppLogin.csproj|solutionrelative:applogin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14F81E0C-4416-4D51-9E1B-8E01552701F7}|AppLogin\\AppLogin.csproj|c:\\users\\sacol\\onedrive\\\u00E1rea de trabalho\\applogin\\applogin\\areas\\colaborador\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14F81E0C-4416-4D51-9E1B-8E01552701F7}|AppLogin\\AppLogin.csproj|solutionrelative:applogin\\areas\\colaborador\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14F81E0C-4416-4D51-9E1B-8E01552701F7}|AppLogin\\AppLogin.csproj|c:\\users\\sacol\\onedrive\\\u00E1rea de trabalho\\applogin\\applogin\\areas\\colaborador\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14F81E0C-4416-4D51-9E1B-8E01552701F7}|AppLogin\\AppLogin.csproj|solutionrelative:applogin\\areas\\colaborador\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14F81E0C-4416-4D51-9E1B-8E01552701F7}|AppLogin\\AppLogin.csproj|c:\\users\\sacol\\onedrive\\\u00E1rea de trabalho\\applogin\\applogin\\areas\\colaborador\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14F81E0C-4416-4D51-9E1B-8E01552701F7}|AppLogin\\AppLogin.csproj|solutionrelative:applogin\\areas\\colaborador\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14F81E0C-4416-4D51-9E1B-8E01552701F7}|AppLogin\\AppLogin.csproj|c:\\users\\sacol\\onedrive\\\u00E1rea de trabalho\\applogin\\applogin\\areas\\colaborador\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14F81E0C-4416-4D51-9E1B-8E01552701F7}|AppLogin\\AppLogin.csproj|solutionrelative:applogin\\areas\\colaborador\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14F81E0C-4416-4D51-9E1B-8E01552701F7}|AppLogin\\AppLogin.csproj|c:\\users\\sacol\\onedrive\\\u00E1rea de trabalho\\applogin\\applogin\\areas\\colaborador\\views\\home\\painel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14F81E0C-4416-4D51-9E1B-8E01552701F7}|AppLogin\\AppLogin.csproj|solutionrelative:applogin\\areas\\colaborador\\views\\home\\painel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14F81E0C-4416-4D51-9E1B-8E01552701F7}|AppLogin\\AppLogin.csproj|c:\\users\\sacol\\onedrive\\\u00E1rea de trabalho\\applogin\\applogin\\areas\\colaborador\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14F81E0C-4416-4D51-9E1B-8E01552701F7}|AppLogin\\AppLogin.csproj|solutionrelative:applogin\\areas\\colaborador\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14F81E0C-4416-4D51-9E1B-8E01552701F7}|AppLogin\\AppLogin.csproj|c:\\users\\sacol\\onedrive\\\u00E1rea de trabalho\\applogin\\applogin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14F81E0C-4416-4D51-9E1B-8E01552701F7}|AppLogin\\AppLogin.csproj|solutionrelative:applogin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14F81E0C-4416-4D51-9E1B-8E01552701F7}|AppLogin\\AppLogin.csproj|c:\\users\\sacol\\onedrive\\\u00E1rea de trabalho\\applogin\\applogin\\areas\\colaborador\\views\\home\\painelcomun.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14F81E0C-4416-4D51-9E1B-8E01552701F7}|AppLogin\\AppLogin.csproj|solutionrelative:applogin\\areas\\colaborador\\views\\home\\painelcomun.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14F81E0C-4416-4D51-9E1B-8E01552701F7}|AppLogin\\AppLogin.csproj|c:\\users\\sacol\\onedrive\\\u00E1rea de trabalho\\applogin\\applogin\\areas\\colaborador\\views\\home\\painelgerente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14F81E0C-4416-4D51-9E1B-8E01552701F7}|AppLogin\\AppLogin.csproj|solutionrelative:applogin\\areas\\colaborador\\views\\home\\painelgerente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14F81E0C-4416-4D51-9E1B-8E01552701F7}|AppLogin\\AppLogin.csproj|c:\\users\\sacol\\onedrive\\\u00E1rea de trabalho\\applogin\\applogin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14F81E0C-4416-4D51-9E1B-8E01552701F7}|AppLogin\\AppLogin.csproj|solutionrelative:applogin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14F81E0C-4416-4D51-9E1B-8E01552701F7}|AppLogin\\AppLogin.csproj|c:\\users\\sacol\\onedrive\\\u00E1rea de trabalho\\applogin\\applogin\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{14F81E0C-4416-4D51-9E1B-8E01552701F7}|AppLogin\\AppLogin.csproj|solutionrelative:applogin\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14F81E0C-4416-4D51-9E1B-8E01552701F7}|AppLogin\\AppLogin.csproj|c:\\users\\sacol\\onedrive\\\u00E1rea de trabalho\\applogin\\applogin\\repository\\contract\\icolaboradorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14F81E0C-4416-4D51-9E1B-8E01552701F7}|AppLogin\\AppLogin.csproj|solutionrelative:applogin\\repository\\contract\\icolaboradorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14F81E0C-4416-4D51-9E1B-8E01552701F7}|AppLogin\\AppLogin.csproj|c:\\users\\sacol\\onedrive\\\u00E1rea de trabalho\\applogin\\applogin\\applogin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{14F81E0C-4416-4D51-9E1B-8E01552701F7}|AppLogin\\AppLogin.csproj|solutionrelative:applogin\\applogin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14F81E0C-4416-4D51-9E1B-8E01552701F7}|AppLogin\\AppLogin.csproj|c:\\users\\sacol\\onedrive\\\u00E1rea de trabalho\\applogin\\applogin\\views\\home\\painelcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14F81E0C-4416-4D51-9E1B-8E01552701F7}|AppLogin\\AppLogin.csproj|solutionrelative:applogin\\views\\home\\painelcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14F81E0C-4416-4D51-9E1B-8E01552701F7}|AppLogin\\AppLogin.csproj|c:\\users\\sacol\\onedrive\\\u00E1rea de trabalho\\applogin\\applogin\\libraries\\login\\logincolaborador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14F81E0C-4416-4D51-9E1B-8E01552701F7}|AppLogin\\AppLogin.csproj|solutionrelative:applogin\\libraries\\login\\logincolaborador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
@@ -18,28 +86,12 @@
       "RelativeMoniker": "D:0:0:{14F81E0C-4416-4D51-9E1B-8E01552701F7}|AppLogin\\AppLogin.csproj|solutionrelative:applogin\\libraries\\sessao\\sessao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14F81E0C-4416-4D51-9E1B-8E01552701F7}|AppLogin\\AppLogin.csproj|c:\\users\\sacol\\onedrive\\\u00E1rea de trabalho\\applogin\\applogin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14F81E0C-4416-4D51-9E1B-8E01552701F7}|AppLogin\\AppLogin.csproj|solutionrelative:applogin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14F81E0C-4416-4D51-9E1B-8E01552701F7}|AppLogin\\AppLogin.csproj|c:\\users\\sacol\\onedrive\\\u00E1rea de trabalho\\applogin\\applogin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14F81E0C-4416-4D51-9E1B-8E01552701F7}|AppLogin\\AppLogin.csproj|solutionrelative:applogin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14F81E0C-4416-4D51-9E1B-8E01552701F7}|AppLogin\\AppLogin.csproj|c:\\users\\sacol\\onedrive\\\u00E1rea de trabalho\\applogin\\applogin\\views\\home\\painelcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{14F81E0C-4416-4D51-9E1B-8E01552701F7}|AppLogin\\AppLogin.csproj|solutionrelative:applogin\\views\\home\\painelcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{14F81E0C-4416-4D51-9E1B-8E01552701F7}|AppLogin\\AppLogin.csproj|c:\\users\\sacol\\onedrive\\\u00E1rea de trabalho\\applogin\\applogin\\repository\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14F81E0C-4416-4D51-9E1B-8E01552701F7}|AppLogin\\AppLogin.csproj|solutionrelative:applogin\\repository\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{14F81E0C-4416-4D51-9E1B-8E01552701F7}|AppLogin\\AppLogin.csproj|c:\\users\\sacol\\onedrive\\\u00E1rea de trabalho\\applogin\\applogin\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{14F81E0C-4416-4D51-9E1B-8E01552701F7}|AppLogin\\AppLogin.csproj|solutionrelative:applogin\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14F81E0C-4416-4D51-9E1B-8E01552701F7}|AppLogin\\AppLogin.csproj|c:\\users\\sacol\\onedrive\\\u00E1rea de trabalho\\applogin\\applogin\\applogin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{14F81E0C-4416-4D51-9E1B-8E01552701F7}|AppLogin\\AppLogin.csproj|solutionrelative:applogin\\applogin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{14F81E0C-4416-4D51-9E1B-8E01552701F7}|AppLogin\\AppLogin.csproj|c:\\users\\sacol\\onedrive\\\u00E1rea de trabalho\\applogin\\applogin\\models\\colaborador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -52,10 +104,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{14F81E0C-4416-4D51-9E1B-8E01552701F7}|AppLogin\\AppLogin.csproj|c:\\users\\sacol\\onedrive\\\u00E1rea de trabalho\\applogin\\applogin\\repository\\colaboradorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14F81E0C-4416-4D51-9E1B-8E01552701F7}|AppLogin\\AppLogin.csproj|solutionrelative:applogin\\repository\\colaboradorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14F81E0C-4416-4D51-9E1B-8E01552701F7}|AppLogin\\AppLogin.csproj|c:\\users\\sacol\\onedrive\\\u00E1rea de trabalho\\applogin\\applogin\\repository\\contract\\icolaboradorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14F81E0C-4416-4D51-9E1B-8E01552701F7}|AppLogin\\AppLogin.csproj|solutionrelative:applogin\\repository\\contract\\icolaboradorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{14F81E0C-4416-4D51-9E1B-8E01552701F7}|AppLogin\\AppLogin.csproj|c:\\users\\sacol\\onedrive\\\u00E1rea de trabalho\\applogin\\applogin\\repository\\contract\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -81,27 +129,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClienteAutorizacaoAtributte.cs",
+              "DocumentMoniker": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\AppLogin\\AppLogin\\Libraries\\Filtro\\ClienteAutorizacaoAtributte.cs",
+              "RelativeDocumentMoniker": "AppLogin\\Libraries\\Filtro\\ClienteAutorizacaoAtributte.cs",
+              "ToolTip": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\AppLogin\\AppLogin\\Libraries\\Filtro\\ClienteAutorizacaoAtributte.cs",
+              "RelativeToolTip": "AppLogin\\Libraries\\Filtro\\ClienteAutorizacaoAtributte.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAnwBQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T00:52:44.586Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Microsoft.Common.CurrentVersion.targets",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ViewState": "AgIAALYSAAAAAAAAAAAlwPkSAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2024-11-28T11:27:59.88Z"
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\AppLogin\\AppLogin\\Areas\\Colaborador\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AppLogin\\Areas\\Colaborador\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\AppLogin\\AppLogin\\Areas\\Colaborador\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AppLogin\\Areas\\Colaborador\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAEwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T00:37:29.293Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\AppLogin\\AppLogin\\Areas\\Colaborador\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "AppLogin\\Areas\\Colaborador\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\AppLogin\\AppLogin\\Areas\\Colaborador\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "AppLogin\\Areas\\Colaborador\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T00:35:31.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\AppLogin\\AppLogin\\Areas\\Colaborador\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "AppLogin\\Areas\\Colaborador\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\AppLogin\\AppLogin\\Areas\\Colaborador\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "AppLogin\\Areas\\Colaborador\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T00:35:31.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\AppLogin\\AppLogin\\Areas\\Colaborador\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AppLogin\\Areas\\Colaborador\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\AppLogin\\AppLogin\\Areas\\Colaborador\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AppLogin\\Areas\\Colaborador\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T00:32:34.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Painel.cshtml",
+              "DocumentMoniker": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\AppLogin\\AppLogin\\Areas\\Colaborador\\Views\\Home\\Painel.cshtml",
+              "RelativeDocumentMoniker": "AppLogin\\Areas\\Colaborador\\Views\\Home\\Painel.cshtml",
+              "ToolTip": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\AppLogin\\AppLogin\\Areas\\Colaborador\\Views\\Home\\Painel.cshtml",
+              "RelativeToolTip": "AppLogin\\Areas\\Colaborador\\Views\\Home\\Painel.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T00:29:42.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\AppLogin\\AppLogin\\Areas\\Colaborador\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "AppLogin\\Areas\\Colaborador\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\AppLogin\\AppLogin\\Areas\\Colaborador\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "AppLogin\\Areas\\Colaborador\\Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T00:23:20.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\AppLogin\\AppLogin\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "AppLogin\\Views\\Shared\\_Layout.cshtml",
@@ -114,19 +237,150 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
+              "Title": "PainelComun.cshtml",
+              "DocumentMoniker": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\AppLogin\\AppLogin\\Areas\\Colaborador\\Views\\Home\\PainelComun.cshtml",
+              "RelativeDocumentMoniker": "AppLogin\\Areas\\Colaborador\\Views\\Home\\PainelComun.cshtml",
+              "ToolTip": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\AppLogin\\AppLogin\\Areas\\Colaborador\\Views\\Home\\PainelComun.cshtml",
+              "RelativeToolTip": "AppLogin\\Areas\\Colaborador\\Views\\Home\\PainelComun.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T00:22:23.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PainelGerente.cshtml",
+              "DocumentMoniker": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\AppLogin\\AppLogin\\Areas\\Colaborador\\Views\\Home\\PainelGerente.cshtml",
+              "RelativeDocumentMoniker": "AppLogin\\Areas\\Colaborador\\Views\\Home\\PainelGerente.cshtml",
+              "ToolTip": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\AppLogin\\AppLogin\\Areas\\Colaborador\\Views\\Home\\PainelGerente.cshtml",
+              "RelativeToolTip": "AppLogin\\Areas\\Colaborador\\Views\\Home\\PainelGerente.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T00:20:11.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\AppLogin\\AppLogin\\Areas\\Colaborador\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AppLogin\\Areas\\Colaborador\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\AppLogin\\AppLogin\\Areas\\Colaborador\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AppLogin\\Areas\\Colaborador\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAwwFQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T23:42:52.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppLogin.csproj",
+              "DocumentMoniker": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\AppLogin\\AppLogin\\AppLogin.csproj",
+              "RelativeDocumentMoniker": "AppLogin\\AppLogin.csproj",
+              "ToolTip": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\AppLogin\\AppLogin\\AppLogin.csproj",
+              "RelativeToolTip": "AppLogin\\AppLogin.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-08T13:07:55.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\AppLogin\\AppLogin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AppLogin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\AppLogin\\AppLogin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AppLogin\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowDEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T13:17:09.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IColaboradorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\AppLogin\\AppLogin\\Repository\\Contract\\IColaboradorRepository.cs",
+              "RelativeDocumentMoniker": "AppLogin\\Repository\\Contract\\IColaboradorRepository.cs",
+              "ToolTip": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\AppLogin\\AppLogin\\Repository\\Contract\\IColaboradorRepository.cs",
+              "RelativeToolTip": "AppLogin\\Repository\\Contract\\IColaboradorRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwBUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T12:58:32.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\AppLogin\\AppLogin\\Program.cs",
+              "RelativeDocumentMoniker": "AppLogin\\Program.cs",
+              "ToolTip": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\AppLogin\\AppLogin\\Program.cs",
+              "RelativeToolTip": "AppLogin\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T12:32:29.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\AppLogin\\AppLogin\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "AppLogin\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\AppLogin\\AppLogin\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "AppLogin\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-03T23:40:28.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "PainelCliente.cshtml",
               "DocumentMoniker": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\AppLogin\\AppLogin\\Views\\Home\\PainelCliente.cshtml",
               "RelativeDocumentMoniker": "AppLogin\\Views\\Home\\PainelCliente.cshtml",
               "ToolTip": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\AppLogin\\AppLogin\\Views\\Home\\PainelCliente.cshtml",
               "RelativeToolTip": "AppLogin\\Views\\Home\\PainelCliente.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAGAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-13T13:20:26.16Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 17,
+              "Title": "LoginColaborador.cs",
+              "DocumentMoniker": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\AppLogin\\AppLogin\\Libraries\\Login\\LoginColaborador.cs",
+              "RelativeDocumentMoniker": "AppLogin\\Libraries\\Login\\LoginColaborador.cs",
+              "ToolTip": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\AppLogin\\AppLogin\\Libraries\\Login\\LoginColaborador.cs",
+              "RelativeToolTip": "AppLogin\\Libraries\\Login\\LoginColaborador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T23:48:30.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAALYSAAAAAAAAAAAlwPkSAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-11-28T11:27:59.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "LoginCliente.cs",
               "DocumentMoniker": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\AppLogin\\AppLogin\\Libraries\\Login\\LoginCliente.cs",
               "RelativeDocumentMoniker": "AppLogin\\Libraries\\Login\\LoginCliente.cs",
@@ -138,7 +392,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 20,
               "Title": "Sessao.cs",
               "DocumentMoniker": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\AppLogin\\AppLogin\\Libraries\\Sessao\\Sessao.cs",
               "RelativeDocumentMoniker": "AppLogin\\Libraries\\Sessao\\Sessao.cs",
@@ -150,7 +404,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 25,
               "Title": "ColaboradorRepository.cs",
               "DocumentMoniker": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\AppLogin\\AppLogin\\Repository\\ColaboradorRepository.cs",
               "RelativeDocumentMoniker": "AppLogin\\Repository\\ColaboradorRepository.cs",
@@ -162,31 +416,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "IColaboradorRepository.cs",
-              "DocumentMoniker": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\AppLogin\\AppLogin\\Repository\\Contract\\IColaboradorRepository.cs",
-              "RelativeDocumentMoniker": "AppLogin\\Repository\\Contract\\IColaboradorRepository.cs",
-              "ToolTip": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\AppLogin\\AppLogin\\Repository\\Contract\\IColaboradorRepository.cs",
-              "RelativeToolTip": "AppLogin\\Repository\\Contract\\IColaboradorRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAADwvxUAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T12:58:32.498Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\AppLogin\\AppLogin\\Program.cs",
-              "RelativeDocumentMoniker": "AppLogin\\Program.cs",
-              "ToolTip": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\AppLogin\\AppLogin\\Program.cs",
-              "RelativeToolTip": "AppLogin\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T12:32:29.22Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 21,
               "Title": "ClienteRepository.cs",
               "DocumentMoniker": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\AppLogin\\AppLogin\\Repository\\ClienteRepository.cs",
               "RelativeDocumentMoniker": "AppLogin\\Repository\\ClienteRepository.cs",
@@ -198,7 +428,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 26,
               "Title": "IClienteRepository.cs",
               "DocumentMoniker": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\AppLogin\\AppLogin\\Repository\\Contract\\IClienteRepository.cs",
               "RelativeDocumentMoniker": "AppLogin\\Repository\\Contract\\IClienteRepository.cs",
@@ -210,7 +440,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 23,
               "Title": "Colaborador.cs",
               "DocumentMoniker": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\AppLogin\\AppLogin\\Models\\Colaborador.cs",
               "RelativeDocumentMoniker": "AppLogin\\Models\\Colaborador.cs",
@@ -222,31 +452,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\AppLogin\\AppLogin\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "AppLogin\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\AppLogin\\AppLogin\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "AppLogin\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAgwDEAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T13:17:09.453Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AppLogin.csproj",
-              "DocumentMoniker": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\AppLogin\\AppLogin\\AppLogin.csproj",
-              "RelativeDocumentMoniker": "AppLogin\\AppLogin.csproj",
-              "ToolTip": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\AppLogin\\AppLogin\\AppLogin.csproj",
-              "RelativeToolTip": "AppLogin\\AppLogin.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-08T13:07:55.481Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 22,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\AppLogin\\AppLogin\\Views\\Home\\Login.cshtml",
               "RelativeDocumentMoniker": "AppLogin\\Views\\Home\\Login.cshtml",
@@ -258,7 +464,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 24,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\AppLogin\\AppLogin\\Models\\Cliente.cs",
               "RelativeDocumentMoniker": "AppLogin\\Models\\Cliente.cs",
@@ -270,7 +476,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 27,
               "Title": "SituacaoConstant.cs",
               "DocumentMoniker": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\AppLogin\\AppLogin\\Models\\Constants\\SituacaoConstant.cs",
               "RelativeDocumentMoniker": "AppLogin\\Models\\Constants\\SituacaoConstant.cs",
@@ -282,7 +488,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 28,
               "Title": "ColaboradorTipoConstant.cs",
               "DocumentMoniker": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\AppLogin\\AppLogin\\Models\\Constants\\ColaboradorTipoConstant.cs",
               "RelativeDocumentMoniker": "AppLogin\\Models\\Constants\\ColaboradorTipoConstant.cs",
@@ -294,7 +500,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 29,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\AppLogin\\AppLogin\\appsettings.json",
               "RelativeDocumentMoniker": "AppLogin\\appsettings.json",
